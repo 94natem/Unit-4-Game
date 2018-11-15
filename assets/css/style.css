@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+
+.container{
+    margin-top: 40px;
+}
+
+.row{
+    text-align: center;
+}
+
+.container{
+    background-color: white;
+}
